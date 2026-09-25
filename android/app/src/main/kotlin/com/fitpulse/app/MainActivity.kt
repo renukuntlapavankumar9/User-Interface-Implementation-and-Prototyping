@@ -1,5 +1,6 @@
-package com.example.fitpulse_app
+package com.fitpulse.app
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity : FlutterActivity()
+
